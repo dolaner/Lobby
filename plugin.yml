@@ -1,0 +1,8 @@
+name: Lobby
+author: dolaner
+version: 1.0
+main: net.dolaner.lobby.Lobby
+description: Lobby plugin for your server Minecraft.
+commands:
+  lobby:
+    description: Main command from Lobby plugin.
